@@ -1,0 +1,20 @@
+janez novak s.p.
+nova hisa
+12
+12000.50
+marjan d.o.o.
+polaganje ploscic
+1
+1500
+tone s.p.
+prevoz materiala
+2
+2300.50
+franci s.p.
+kamnosestvo
+6
+4360
+marinko s.p.
+gostinske storitve
+24
+40500
